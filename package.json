@@ -9,5 +9,8 @@
   "author": "",
   "contributors": [],
   "license": "ISC",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
