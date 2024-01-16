@@ -4,6 +4,7 @@
   "description": "��#\u0000 \u0000P\u0000o\u0000r\u0000t\u0000f\u0000o\u0000l\u0000i\u0000o\u0000_\u00002\u00000\u00002\u00004\u0000\r\u0000 \u0000",
   "main": "main.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -12,5 +13,8 @@
   "keywords": [],
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
   }
 }
